@@ -1,5 +1,5 @@
 {
-  "name": "naruemonkaekhum-tinhtonggggg",
+  "name": "tinhtonggggg",
   "version": "1.1.1",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naruemonkaekhum/naruemonkaekhum-tinhtonggggg.git"
+    "url": "https://github.com/naruemonkaekhum/tinhtonggggg.git"
   },
   "dependencies": {
     "xxnhodenlon-chuantrang": "1.0.3",
@@ -22,7 +22,7 @@
     "trungbinh-binhphuong-xacchuan":"1.0.12",
     "binhhhphuonggggtbbb":"1.0.6"
     },
- "homepage": "https://github.com/naruemonkaekhum/naruemonkaekhum-tinhtonggggg",
+ "homepage": "https://github.com/naruemonkaekhum/tinhtonggggg",
   "keywords": [
     "sum",
     "add",
